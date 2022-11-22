@@ -9,6 +9,6 @@ export const CURRENT_API_URL = "http://api.weatherapi.com/v1/current.json";
 
 export const FORECAST_API_URL = "http://api.weatherapi.com/v1/forecast.json";
 
-export const WEATHER_API_KEY = "<API-KEY";
+export const WEATHER_API_KEY = "<API-KEY>";
 
 
